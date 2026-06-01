@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Used Car Price Prediction
 
 A beginner machine learning project that predicts the price of used cars using regression models. Built as part of the **Coding Ninjas** curriculum.
@@ -75,3 +76,7 @@ scikit-learn
 ## 👤 About
 
 This is my **first machine learning project** — built while learning data science from scratch through Coding Ninjas. Feedback and suggestions are always welcome! 🙌
+=======
+# Used_Car_Price_Prediction-Coding_Ninjas
+Google Colab project for predicting used car prices using data preprocessing, visualization, correlation analysis, and machine learning models. Includes feature ranking, EDA, and predictive modeling with Python libraries like Pandas, Matplotlib, and Seaborn.
+>>>>>>> d297d665bf7554abc5c7e6d7797ae9b8ed6aa0c0
